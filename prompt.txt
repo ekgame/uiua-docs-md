@@ -1,0 +1,14 @@
+You will be writing a Uiua program to find the longest common prefix of two strings.
+
+First write a plan of high level steps that the program should perform and what you expect the stack to look like at every step. Don't write any actual code yet, double check that the process is plausible in Uiua and makes sense in the array programming paradigm. If I feel like the plan is flawed, I might intervene and provide guidance.
+
+Then, once I confirmed the plan is sound, instead of writing the whole thing at once, only write one line of code at a time and add a comment that says what you think the concrete values of the stack are at the end of the program. I will run the program and confirm whether or not the program runs as you expect by giving you the actual state of the stack. 
+
+Start your program like this:
+```
+"flower" "flow" # the starting values
+<Your code here>
+# <state of the stack>
+```
+
+Remeber that the code executes right to left, so the left-most values are on top of the stack.
